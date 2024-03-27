@@ -21,9 +21,3 @@
   <!-- Añade tus propias insignias de herramientas de Web Scraping y Visualización de Datos aquí -->
   <p>👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!</p>
 </div>
-
-<div id="header" align="left">
-  <!-- Tus insignias y demás contenido aquí -->
-
-  <p>👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!</p>
-</div>
