@@ -16,4 +16,6 @@ Soy especialista en Data Analytics con pasión por el análisis de datos y la ge
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Ángela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelaruiga/)
-* 
+
+* 💻: ¿Quieres conocer mis proyectos? [![Novypro Badge](https://img.shields.io/badge/-Ángela-black?style=flat&logo=Novypro&logoColor=black)]([https://www.linkedin.com/in/angelaruiga/](https://www.novypro.com/profile_projects/angelaruiz-gallego)https://www.novypro.com/profile_projects/angelaruiz-gallego)
+
