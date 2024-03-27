@@ -15,5 +15,5 @@ Soy especialista en Data Analytics con pasión por el análisis de datos y la ge
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelaruiga/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Ángela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angelaruiga/)
 * 
